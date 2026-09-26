@@ -1,7 +1,7 @@
-# Student-Banking-Model Full-Stack Project
+# Student Banking Model Full-Stack Project
 
 ## Goal
-Analyze different chequing account plans offered by the 5 largest Canadian banks (RBC, TD, Scotiabank, BMO, CIBC) to identify which features (fees, transaction limits, requirements) provide the highest value for student clients and create a model to select the most suitable banking account for different student profiles. The comparison is made calculating the first 3 years of account usage for each person, including in the first year the additional bonuses that come with the accounts, to define which account is more useful long-term.
+Analyze different chequing account plans offered by the 5 largest Canadian banks (RBC, TD, Scotiabank, BMO, CIBC) to identify which features (fees, transaction limits, requirements) provide the highest value for student clients and create a model to select the most suitable banking account for different student profiles. The comparison is made calculating the first 3 years of account usage for each person to define which account is more helpful long-term for each individual's financing patterns.
 
 ## Conclusion
 In progress...
@@ -21,9 +21,8 @@ The datasets and source code are provided in the repository
 The main data source for this project is the [FCAC comparison tool](https://itools-ioutils.fcac-acfc.gc.ca/ACT-OCC/SearchFilter-eng.aspx) by the Government of Canada. Instead of finding a premade dataset online, the information was gathered from this tool based on the following filters: Quebec, chequing account, CAD currency, additional discounts: Student.
 ## Questions
 -	Do designated “student” plans provide more valuable features than regular accounts or account with student discounts?
--	Do higher-fee plans provide more benefits or are students better off with lower cost plans
--	Do attractive  welcome bonuses make an account more suitable on the long run compared to an account with less bonuses
--	Do limited transaction plans help savings
+-	Do higher-fee plans provide better benefits for higher-income individuals?
+-	Do limited transaction plans help savings?
 
 ## Analysis
 on SQL, to be continued...
